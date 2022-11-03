@@ -33,7 +33,7 @@ public class Zmienne {
 
         boolean slonce = false; //true
 
-
+        // https://github.com/przemjan/trzeciaigr32022
 
 
     }
